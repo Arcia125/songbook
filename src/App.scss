@@ -1,0 +1,18 @@
+:root {
+  --color-bg: #0D1B2A;
+  --color-bg2: #1B263B;
+  --color-accent: #415A77;
+  --color-accent2: #778DA9;
+  --color-white: #E0E1DD;
+}
+
+div#root {
+  height: 100%;
+}
+
+.App {
+  background-color: var(--color-bg);
+  height: 100%;
+
+
+}
